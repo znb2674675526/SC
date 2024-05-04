@@ -1,0 +1,9 @@
+09:46:42.304 INFO: OpenGL framebuffer created, R=8 G=8 B=8 A=8, D=16 S=0
+09:46:42.337 INFO: GLES Vendor: Intel
+09:46:42.337 INFO: GLES Renderer: Intel(R) HD Graphics
+09:46:42.338 INFO: GLES Version: 2.1.0 - Build 8.15.10.2413
+09:46:44.878 INFO: Survivalcraft starting up at 04/27/2024 09:46:44, Version=2.3.0.0, BuildConfiguration=Release, Platform=Desktop, Storage.AvailableFreeSpace=7055MB, ApproximateScreenDpi=96.0, ApproxScreenInches=22.9, ScreenResolution=1536,864, ProcessorsCount=2, RAM=0MB, 64bit=True
+09:46:44.900 INFO: [Info]Initilizing Mods Manager. Api Version: 1.70A
+09:46:44.903 INFO: Program Initialize Success
+09:46:45.331 INFO: [Info][SCPAK Resources]加载资源文件数:765
+09:46:46.201 INFO: [Info]加载资源:SCPAK Resources
